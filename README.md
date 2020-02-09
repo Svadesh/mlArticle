@@ -1,6 +1,5 @@
-# mlArticle
+# ML Article
 The repo provide the latest literature and programming article
-
 
 # Keras: Multiple Inputs and Mixed Data
 09/02/2020 
